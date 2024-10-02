@@ -1,0 +1,12 @@
+a.	Que permet de faire la commande git pull ? 
+-> git pull permet de prendre les mise à jour effecuté près avoir fait une ou plusieur modiffication dans une branche
+
+b.	Que permet de faire la commande git clone ? 
+-> git clone permet de cloner une projet via un URL 
+
+c.	Expliquer ce que fait un « fork » ?
+->
+
+d.	Expliquez brièvement l’utilité d’une pull request (PR) ? 
+apres avoir fait des modifications dans une branche fille de la branche principal
+le commit effecuté ne s'execute pas directement mais il faut d'abord fair une pull request pour que le nouveau commite soit ajouter au repository.

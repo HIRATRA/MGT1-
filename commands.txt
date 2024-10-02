@@ -1,0 +1,11 @@
+git init
+git add -A
+git commit -m "mon_profil"
+git branch -M main
+/Users/HIRATRA/Desktop/test-MGT1/.git/
+git push -u origin main
+
+pour modiffication : 
+git add -A
+git commit -m "add-precision"
+git push
